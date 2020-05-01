@@ -1,0 +1,42 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  font-family: "Monserrat-black";
+  text-align: center;
+  padding-bottom: 20px;
+}
+p {
+  text-align: center;
+  line-height: 2;
+  margin: 0;
+}
+.middle {
+  width: 100%;
+ text-align: center;
+}
+
+.nav-navbar .nav-link {
+  display: inline-flex;
+  list-style-type: none;
+}
+.bottom .footer-me {
+  text-align: center;
+}
+
+hr {
+  color: lightgrey;
+  margin: 100px;
+  border-style: none;
+  border-top-style: dashed;
+
+  }
+ .link-a {
+  display: inline;
+  list-style-type: none;
+  padding: 60px;
+}
+.nav-link .nav-item{
+  list-style-type: none;
+  display: inline;
+}
